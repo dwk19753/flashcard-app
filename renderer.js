@@ -24,7 +24,9 @@ function showCard(index) {
   const card = cards[index];
   container.innerHTML = `
     <h2 id="card-name" style="visibility: hidden; min-height: 1.5em;">${card.name}</h2>
-    <img id="card-image" src="${card.imageUrl}" alt="${card.name}" style="max-width: 100%; height: auto; cursor: pointer;">
+    <div class="image-container">
+      <img id="card-image" src="${card.imageUrl}" alt="${card.name}" style="width: 100%; height: 100%; object-fit: contain; cursor: pointer;">
+    </div>
     <p>${card.description}</p>
   `;
 

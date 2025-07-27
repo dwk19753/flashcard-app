@@ -1,37 +1,22 @@
 [
   {
-    "name": "Photosynthesis7",
-    "description": "The process by which green plants use sunlight to synthesize food.",
-    "imageUrl": "./images/photosynthesis.jpg"
+    "name": "Canada",
+    "description": "checker sign",
+    "imageUrl": "./images/canadasign.jpg"
   },
   {
-    "name": "Mitochondria6",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
+    "name": "Chile",
+    "description": "square pole",
+    "imageUrl": "./images/chilepole.png"
   },
   {
-    "name": "Mitochondria5",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
+    "name": "France",
+    "description": "street sign",
+    "imageUrl": "./images/francestreetsign.png"
   },
   {
-    "name": "Mitochondria4",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
-  },
-  {
-    "name": "Mitochondria3",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
-  },
-  {
-    "name": "Mitochondria2",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
-  },
-  {
-    "name": "Mitochondria1",
-    "description": "The powerhouse of the cell.",
-    "imageUrl": "./images/mitochondria.png"
+    "name": "Malaysia",
+    "description": "sign",
+    "imageUrl": "./images/malaysiasign.png"
   }
 ]
