@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  background: #f5f5f5;
+}
+
+#flashcard-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  max-height: 500px;
+  height: auto;
+  object-fit: contain;
+  margin: 20px 0;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
